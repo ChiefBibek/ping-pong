@@ -1,4 +1,4 @@
-# Ping Pong Game in C
+# Ping Pong Game in C Programming 
 
 This repository contains a simple implementation of the classic Ping Pong game in C programming language using the `graphics.h` library.
 
